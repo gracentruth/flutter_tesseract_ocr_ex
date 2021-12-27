@@ -11,3 +11,4 @@
    import 'package:flutter_tesseract_ocr/flutter_tesseract_ocr.dart';
    
 
+kIsWeb: 플랫폼 구분 변수로 해당 플랫폼이 웹일 경우 True, 아닐경우 True를 반환
