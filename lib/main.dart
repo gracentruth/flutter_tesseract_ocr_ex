@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_tesseract_ocr/flutter_tesseract_ocr.dart';
 
 void main() {
   runApp(const MyApp());
